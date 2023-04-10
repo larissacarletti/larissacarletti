@@ -18,12 +18,12 @@ I have skills with:
   
   Also, I constantly use the tools: Android Studio, Trello, Slack, Discord.
   
-  <h4> Languages and Tools:<h4/>
+  <h3> Languages and Tools:<h3/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30" />
     
-  <h4> Let's connect: <h4/>
+  <h3> Let's connect: <h3/>
     <a href="https://www.linkedin.com/in/larissacarletti/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
  
           
