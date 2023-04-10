@@ -11,7 +11,20 @@ I have skills with:
   - Kotlin Coroutines,
   - Git,
   - MVVM, 
-  - Android Jetpack. <br />
+  - Android Jetpack.
+  - Dagger Hilt Injection 
+  - Koin Dependency Injection <br />
   
   
   Also, I constantly use the tools: Android Studio, Trello, Slack, Discord.
+  
+  <h4> Languages and Tools:<h4/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25" height="25" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25" height="25" />
+    
+  <h4> Let's connect: <h4/>
+    <a href="https://www.linkedin.com/in/larissacarletti/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+ 
+          
+          
