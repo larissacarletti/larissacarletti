@@ -4,7 +4,7 @@
 **larissacarletti/larissacarletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   
-👩🏻‍💻 I'm  a <b> Android Developer </b> looking for a oportunity to colaborate with others developers. <br/>
+👩🏻‍💻 I'm  a <b> Android Developer </b> looking for a opportunity to colaborate with others developers. <br/>
 💭 I work developing Android apps using Kotlin. <br />
 ➡️ I have skills with:
   - Mobile Android, 
